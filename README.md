@@ -1,7 +1,7 @@
 # leader-election
 
 This repo plays around with using the Raft Consensus Protocol for leader election.
-It implements a very simple Raft cluster and HTTP server.
+It implements a very simple Raft cluster and HTTP server. Built off the otoolep's [example implementation.](https://github.com/otoolep/hraftd)
 
 To install / build `leader-election` run the following after cloning the repo
 ```
